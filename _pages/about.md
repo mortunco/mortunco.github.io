@@ -20,8 +20,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an enthusiastic graduate student with 7 years of field experience in bioinformatics and data science, with an excellent track record of publications in high impact journals. With my data analysis and visualization skills, I can confidently unravel the mysteries of multi-dimensional datasets. I would like to pursue my career in the field of data science where I can utilize my computational, machine learning and statistical skills to understand the complex nature of big data sets.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a 4th year PhD student in University of British Columbia. I am a member of [Hach](https://hachlab.org/) and [Lack](https://lacklab.ku.edu.tr/index.html) laboratories. I built computational framework to characterize the impact of the non-coding mutations in prostate cancer for my PhD thesis. During my graduate degree, I developed and optimized streamlined analysis pipelines to process various genomic datasets such as RNAseq, ChIPseq, CRISPR-knockout screens, single-cell RNAseq, whole genome sequencing (~mutation calling). 
+
+Outside of the work, I enjoy [running](https://www.strava.com/athletes/tmorova), playing soccer (Creekside Gym Mon/Thur 6-8pm) and being a plant-daddy (I love my succelents). I also enjoy gaming. During pandemic, I was the main tank healer in Earthshaker-Goons Guild in World of Warcraft (For the alliance!).
+

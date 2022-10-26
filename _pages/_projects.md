@@ -1,4 +1,5 @@
 ---
+##### MAKE THE NAME OF THIS FILE WITHOUT _ TO BRING THIS BACK!!! ####
 layout: page
 title: projects
 permalink: /projects/
